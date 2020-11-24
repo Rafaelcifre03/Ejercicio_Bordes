@@ -1,0 +1,55 @@
+*   {
+    font-family: Arial, Helvetica, sans-serif;
+
+} 
+h1  {
+    font-size: 300%;
+    text-align: center;
+    padding-bottom: 2mm;
+    padding-top: 2mm;
+    border: black 5px solid;
+}
+
+p.uno {
+    font-size: 150%;
+    border-left: red 20px double;
+    border-top: red 20px double;
+}
+
+p.dos   {
+    font-size: 150%;
+    border-left:green 40px solid;
+    border-top: blue  10px dashed;
+    border-bottom: blue 20px dashed;
+    border-right: green 10px dashed;
+}
+
+p.tres  {
+    font-size: 150%;
+    border-width: 30px 10px;
+    border-style: double;
+    border-color: yellow;
+}
+
+p.cuatro    {
+    font-size: 150%;
+    border-top: green 20px solid;
+    border-bottom: blue 20px solid;
+}
+
+p.cinco {
+    font-size: 150%;
+    border-left: black 30px solid;
+    border-right: black 30px solid;
+    border-top: red 30px dashed;
+    border-bottom: black 30px dotted;
+
+}
+
+p.seis  {
+    font-size: 150%;
+    border-top:black  10px dotted;
+    border-left: red 30px double;
+    border-right: black 30px solid;
+    border-bottom: black 20px dashed;
+}
